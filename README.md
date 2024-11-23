@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project showcases an interactive Tableau dashboard built using the **COVID-19 dataset** sourced from "[Our World in Data](https://ourworldindata.org/](https://ourworldindata.org/covid-deaths))". The dataset spans the **start of 2020 to the end of 2021** and provides insights into global COVID-19 trends during this period. I learnt basic data exploration , data cleaning using SSMS (SQL Server Management Studio) and Microsoft Excel and data visualization with Tableau through this project. 
+This project showcases an interactive Tableau dashboard built using the **COVID-19 dataset** sourced from [Our World in Data]([https://ourworldindata.org/](https://ourworldindata.org/covid-deaths](https://ourworldindata.org/covid-deaths)). The dataset spans the **start of 2020 to the end of 2021** and provides insights into global COVID-19 trends during this period. I learnt basic data exploration , data cleaning using SSMS (SQL Server Management Studio) and Microsoft Excel and data visualization with Tableau through this project. 
 
 ## Visualizations
 
